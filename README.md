@@ -1,3 +1,9 @@
+# finals
+
+[This is my final exam for python, Constantijn Wessel u1279776](https://github.com/ConstantijnWessel/assigment/blob/master/Final_Assignment_Python_1__Constantijn_Wessel_u1279776_good_verion.ipynb)
+
+[This iss my final exam for R oecddata, Constantijn Wessel u1279776]
+
 # assigment
 this is a repository assigment<br>
 [This is my assigment for week 2](https://github.com/ConstantijnWessel/assigment/blob/master/Assignment_week_2.ipynb)
